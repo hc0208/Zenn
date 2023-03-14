@@ -1,0 +1,23 @@
+{
+  "name": "hc0208-zenn-contents",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hc0208/hc0208-zenn-contents.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hc0208/hc0208-zenn-contents/issues"
+  },
+  "homepage": "https://github.com/hc0208/hc0208-zenn-contents#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.141"
+  }
+}
