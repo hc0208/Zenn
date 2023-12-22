@@ -7,6 +7,10 @@ published: false
 publication_name: "loglass"
 ---
 
+:::message
+この記事は [株式会社ログラス Productチーム Advent Calendar 2023](https://qiita.com/advent-calendar/2023/loglass) の23日目の記事です
+:::
+
 # 背景
 現在ログラスでは、スクラムで開発を行っています。（私の所属するチームでは）
 2023年11月~スクラムマスター（以下SM）の方が新しく自分のチームに参画したので、参画前後でどうチームが変わったのか紹介したいと思います。
