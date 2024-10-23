@@ -6,6 +6,10 @@ topics: []
 published: false
 publication_name: "loglass"
 ---
+:::message
+この記事は毎週必ず記事がでるテックブログ "Loglass Tech Blog Sprint" の 63 週目の記事です！
+2年間連続達成まで 残り 43 週 となりました！
+:::
 
 # 背景
 株式会社ログラスは2024年の夏から新しく新卒エンジニアの採用に向けて短期インターンシップの開催を始めました。
